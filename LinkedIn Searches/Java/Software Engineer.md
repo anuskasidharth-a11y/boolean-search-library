@@ -5,7 +5,7 @@
 ```text
 ("Software Engineer" OR "Software Developer")
 AND
-(Java OR Python)
+(Java OR Python) 
 NOT
 Intern
 ```
