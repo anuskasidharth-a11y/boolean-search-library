@@ -1,33 +1,99 @@
-# Boolean Search Library
+# Boolean Search Library for Talent Acquisition
 
-A practical collection of Boolean search strings designed for Talent Acquisition Specialists, Recruiters, and Full Cycle Recruiters.
+## Overview
 
-## Project Goals
+This repository is a practical Boolean Search Library designed for Talent Acquisition and Technical Recruiting.
 
-This repository helps recruiters source candidates more efficiently using Boolean Search techniques across multiple platforms.
+It contains structured search strings used for sourcing candidates across multiple domains including:
 
-## Platforms Covered
+- Software Engineering (Java, Python, .NET)
+- Cloud & DevOps
+- Data & AI (Analytics, Engineering, Machine Learning, AI)
+- QA & Testing
+- HR & Recruitment
+- Sales & Business Development
+- Digital Marketing
+- Product & Business Roles
 
-- LinkedIn
-- Google X-Ray
-- GitHub
-- Stack Overflow
+---
 
-## Skills Demonstrated
+## Purpose of This Repository
 
-- Boolean Search
-- Talent Sourcing
-- Candidate Research
-- LinkedIn Recruiting
-- Google X-Ray Search
-- Recruitment Strategy
+This repository is built to demonstrate real-world sourcing capability using Boolean logic.
 
-## Repository Structure
+It helps recruiters:
 
-- LinkedIn Searches
-- Google X-Ray Searches
-- GitHub Searches
-- Recruiting Guides
-- Cheat Sheets
+- Find high-quality candidates on LinkedIn
+- Improve sourcing efficiency
+- Understand role-based keyword strategy
+- Apply advanced X-Ray and Boolean search techniques
 
-This project is continuously updated with new sourcing strings and recruiting resources.
+---
+
+## Structure
+
+```
+LinkedIn Searches
+│
+├── Java
+├── Python
+├── .NET
+├── Cloud & DevOps
+├── Data & AI
+├── QA & Testing
+├── HR & Recruitment
+├── Sales & Marketing
+└── Product & Business
+```
+
+---
+
+## Key Skills Covered
+
+### Engineering
+- Java (Spring Boot, Microservices)
+- Python (Django, Flask, AI/ML)
+- .NET Development
+
+### Cloud & DevOps
+- AWS, Azure, Docker, Kubernetes, Terraform
+
+### Data & AI
+- Data Analyst, Data Engineer, Data Scientist
+- Machine Learning, AI, NLP, GenAI
+
+### QA
+- Manual Testing, Automation Testing, Selenium, SDET
+
+### Business Roles
+- Recruiters, HR, Talent Acquisition
+- Sales Development, Inside Sales, SDR
+- Digital Marketing, Performance Marketing
+- Product and Business Analysis
+
+---
+
+## Why This Matters
+
+Modern recruiting is not just about posting jobs.
+
+It is about:
+
+- Targeted sourcing
+- Precision search
+- Understanding tech stacks
+- Finding passive candidates efficiently
+
+This repository demonstrates that capability.
+
+---
+
+## Author
+
+Built by a Talent Acquisition professional with 3+ years of experience in technical hiring and sourcing across enterprise and product-based environments.
+
+---
+
+## Note
+
+This repository is continuously evolving with new Boolean strategies based on real hiring requirements.
